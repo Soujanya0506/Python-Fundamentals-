@@ -1,0 +1,100 @@
+学生時代の思い出を教えてください。
+
+The moment I stepped to Yokohama, first thing i realized how much we take nature for granted. I started missing
+the fresh mountain air, Joyfull study sessions, cafeteria food...oh yes nasu no agedashi 
+From my second year of university, when everything got online I realized how technologies
+make our life easier. I took Professor Claster's seminar where I first learned about Machine learning and AI.
+So I changed my major from Marketing to innovation and economics so as to focus more on the latest tech like
+3D printing, AI, cloud etc. Professor Miyazaki's seminar was a driving force for me to learn NLP or what we call
+Natural language processing and gradually I started my own APU tech club. After all learning together is fun right?
+
+コンサル業界や船井総合研究所に就職した理由は？
+
+I have a lot of reasons for choosing Funai soken over many multinational companies.
+Personally I feel more comfortable in a japanese work environment as I'm an introvert.
+I like the fact that Funai Soken focuses more on the SME's which means when one
+thinks about a solution, they'd have to think out of the box to find not only
+a cost effective but a flexible solution. So I think innovation is rapid.
+Personally I learned more about the company through the gakunai seminar we
+attended last year and from my seniors in the company. Another fact I really
+loved about the company is that they have been progressing really well in incorporating 
+Zoho, a CRM software which is really cost effective and has a wide range of services
+within the same package. For me another major reason was that I'm very keen about the
+development of AI and when I was reading their newsletter, I saw something about
+the small AI which intrigued me. I wanted to more about the same as a part of the team.
+
+実際の仕事内容はどんな感じですか？
+My task actually ranges from developing to consulting both. The onboarding 
+process is precise and fast so I was able to quickly work on my first client with
+proper instructions from my leader. What surprised me about the task was that
+when we think of AI we think about super high-tech, futuristic AI but in reality
+one has to go step by step. One of such important step is what we call data visualization.
+Suppose you are given a 500 input data about reviews of a certain class. You can't possibly
+read all right...I mean you can if you have literally nothing else to do haha.
+So now you may need a machine learning clustering model and a twist of NLP to extract
+the positive words in the review and negative words in the review aka sentiment analysis.
+A simple clustering can give you a glimpse of whether this class is really difficult or
+is the grading too tough. This is what AI is capable of right now and thus my task
+as an AI consultant. We even go to Expos, build business relationships, learn more about
+latest techs like AR, AI, Metaverse as it could be a potential solution for our clients.
+For me it's mostly manufactuting sector people. As for my development task, I'm working
+on an IoT based project actually where I get data from machine sensors and i need to 
+visualize the status of manufacturing of the setsubi and 0 kara make a dashboard app using python. 
+Similarly Im also working on machine learning models.
+
+どんな人と一緒に働いてますか？（ダッシュさん）
+I think my team actually comprises of a lot of young members with different background. Especially the AI
+team is international as Im an indian, there is a person from china, few japanese members but from different parts.
+Also we are especially in good terms with the robotics team. I would like to introduce my team in specific
+Personally all members need to have a strong proficiency in one of the programming langauges. For instance,
+Kumagai san has an engineering bacgrounf (electrical and mecanical) so he knows how to use C++, Arduino, Python, databases etc.
+Cho san the chinese member is very well versed in data analytics and he is a business major. He knows Python as well.
+Once he showed me his thesis paper about textual analysis on news so i believe he knows R as well.
+IIduka san is our leader and has a wide knowledge about latest technologies. For example I didn't know much about 
+Mizumi, an innovative company in Japan which used auto CAD data into its AI system to automate the quote making process
+usually delivery would be about 2 weeks but this technology puts mitsumori quicker as the AI model can classify 
+the part based on previous data and thus batch of to be manufactured good is prepared. IIduka san also made me 
+visit a factory to actually visualize how it is being used. Im really gratefull to the team. 
+Im also in good terms with the zoho team. Even Zoho has a no code AI platform called Zoho zia. Im sure youll learn a lot
+by the amazing members in the team irrespective of the dep. Also all our clients are business owners so I need to learn
+from my seniors about how to behave in a japanese environment as such...using business japanese, meishi exchange, 
+basic manners etc.
+
+働く環境はいかがでしょうか？
+一言でいうと忙しさにはたのしさ。好きなことを仕事にすると、毎日が楽しくなりますよね。
+
+
+i learn something new everyday and it excites me so much that I look forward to the next day.
+What topic will I encounter next? AR? AI? IoT. Since we are fresh graduates, obviously
+gyoumu chishiki ha sonnani nai. Its okay, this is the best time to explore that. 
+Right now I have been entrusted with 4 different types of manufacturing industries at the same time.
+Obviously there would be no way that I already know about the company in a go, The first step
+is to understand about the industry, their product, value, requirements or demand etc. 
+For us, we get opportunities to visit the company and I have already been on a few business trips
+since joining. Also, the job doesnt only end at office or shien saki, we also need to visit expos
+as consultants, build relationships, update our knowledge, find potential vendors + solutions
+For me the experience has been vibrant as I also get to participate in business seminars and kenkyuukai.
+Id like to show a few pics from Tenjikai as well.
+about our office...you wont believe...we have three branches but the main one is in Marunouchi.
+This is the picture of the office at night...kira kira deshou? The location can never be more perfect, Food stalls, high end resu,
+malls, central tokyo station which connects everywhere, banks nearby,clinics ...also a plus point..Im vegan so a lot of vegan resu
+Imperial palace is just behind the office buildings
+
+APUの後輩へ一言お願いします！
+Dont let your major to stop you from dreaming about technical fields. Business major
+with right set of skills can step up the tech ladder esp. as a consultant.
+as a fresh graduate, everything may feel scary and new. Consulting is the best field 
+at this stage as you get to work closely with a variety of companies...you may even
+specialize in a certain field or go broad (Sato san here is knowledgeab;e about different 
+industries as you may see. Its never boring in this field as you see new issue or
+you find new oopporunitrs everyday. My advice to everyone is that explore a lot while you can
+but also take care of yourself so as to not being overwhelmed.
+
+専攻にとらわれず、適切なスキルを磨けばどのフィールドでも努めることができます。技術系の業務も
+例外ではありません。新卒として、新しいものに圧倒され、迷いを感じることが当然です。
+船井総合に入社の時一度聞かれた今の私の時間は何時？計算するには、自分の年齢を4で割ります。
+そうすると私たちの時間は朝早いですね。端的に言えば、新しいことに挑戦し、その体験から学ぶ時間です。
+だから、コンサルティングは面白い仕事だと思います。特に中小企業のコンサルティングは、
+制約の中で解決策を考えなければならないのでFrugalイノベーションが高いです。
+専門家になることも、幅広い知識を持つことも可能ですね。これからも自分のゴールへ向けて
+動力してください！
